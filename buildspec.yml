@@ -11,4 +11,4 @@ phases:
      - msbuild 
 artifacts: 
   files:
-    - '**/*'
+    - 'C:/Src/aspnetmvcapp/bin/roslyn/*'
