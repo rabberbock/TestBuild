@@ -9,3 +9,5 @@ phases:
   build:
     commands:
      - msbuild 
+  artifacts: 
+    - C:\Src\aspnetmvcapp\bin\roslyn
